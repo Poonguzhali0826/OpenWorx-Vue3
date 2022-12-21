@@ -503,7 +503,7 @@ export default {
             make your team productive than before.
           </p>
           <p class="fw-bold my-5" style="font-size: 20px; color: #0c8ce9">
-            <img src="@/assets/Arrow 1.png" />&nbsp;Visit How it Works Page
+            <img src="@/assets/Arrow1.png" />&nbsp;Visit How it Works Page
           </p>
           <!-- </div> -->
         </div>
@@ -533,7 +533,7 @@ export default {
             AWS infrastructure using the latest security standards.
           </p>
           <p class="mb-5 fw-bold my-5" style="font-size: 20px; color: #0c8ce9">
-            <img src="@/assets/Arrow 1.png " />&nbsp;Visit How it Works Page
+            <img src="@/assets/Arrow1.png " />&nbsp;Visit How it Works Page
           </p>
         </div>
         <div class="col-lg-12 col-md-12 col-xl-6 p-3">
@@ -561,7 +561,7 @@ export default {
             servers, we usethem to store our data.
           </p>
           <p class="fw-bold my-5" style="font-size: 20px; color: #0c8ce9">
-            <img src="@/assets/Arrow 1.png" />&nbsp;Learn More
+            <img src="@/assets/Arrow1.png" />&nbsp;Learn More
           </p>
           <!-- </div> -->
         </div>
