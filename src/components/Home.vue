@@ -776,7 +776,7 @@ export default {
 }
 
 .bg-image {
-  background-image: url(@/assets/Rectangle\ 26.png);
+  background-image: url(@/assets/Rectangle26.png);
   background-size: cover;
 }
 
