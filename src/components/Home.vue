@@ -119,7 +119,7 @@ export default {
               <img
                 alt="png-img"
                 class="img-fluid ms-3"
-                src="@/assets/Circle with tick blue.png"
+                src="@/assets/Circle.png"
               />
               <span class="fw-bold pl-10 fs-22" style="color: #2c3460">
                 Computer Activity Tracking
@@ -138,7 +138,7 @@ export default {
               <img
                 alt="png-img"
                 class="img-fluid ms-3"
-                src="@/assets/Circle with tick blue.png"
+                src="@/assets/Circle.png"
               />
               <span class="fw-bold pl-10 fs-22" style="color: #2c3460">
                 Regular Screenshots
@@ -157,7 +157,7 @@ export default {
               <img
                 alt="png-img"
                 class="img-fluid ms-3"
-                src="@/assets/Circle with tick blue.png"
+                src="@/assets/Circle.png"
               />
               <span class="fw-bold pl-10 fs-22" style="color: #2c3460">
                 Computer Activity Tracking
@@ -218,7 +218,7 @@ export default {
             <img
               alt="png-img"
               class="img-fluid ms-3"
-              src="@/assets/Circle with tick.png"
+              src="@/assets/Circletick.png"
             />
             <span class="fw-bold pl-10 fs-22" style="color: #2c3460">
               Computer Activity Tracking
@@ -236,7 +236,7 @@ export default {
             <img
               alt="png-img"
               class="img-fluid ms-3"
-              src="@/assets/Circle with tick.png"
+              src="@/assets/Circletick.png"
             />
             <span class="fw-bold pl-10 fs-22" style="color: #2c3460">
               Regular Screenshots
@@ -255,7 +255,7 @@ export default {
             <img
               alt="png-img"
               class="img-fluid ms-3"
-              src="@/assets/Circle with tick.png"
+              src="@/assets/Circletick.png"
             />
             <span class="fw-bold pl-10 fs-22" style="color: #2c3460">
               Computer Activity Tracking
@@ -310,7 +310,7 @@ export default {
             <img
               alt="png-img"
               class="img-fluid ms-3"
-              src="@/assets/Circle with tick blue.png"
+              src="@/assets/Circle.png"
             />
             <span class="fw-bold pl-10 fs-22" style="color: #2c3460">
               Computer Activity Tracking
@@ -329,7 +329,7 @@ export default {
             <img
               alt="png-img"
               class="img-fluid ms-3"
-              src="@/assets/Circle with tick blue.png"
+              src="@/assets/Circle.png"
             />
             <span class="fw-bold pl-10 fs-22" style="color: #2c3460">
               Regular Screenshots
@@ -348,7 +348,7 @@ export default {
             <img
               alt="png-img"
               class="img-fluid ms-3"
-              src="@/assets/Circle with tick blue.png"
+              src="@/assets/Circle.png"
             />
             <span class="fw-bold pl-10 fs-22" style="color: #2c3460">
               Computer Activity Tracking
